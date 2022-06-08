@@ -22,7 +22,7 @@
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-## To Access my project locally you can follow these steps
+## To Access these project locally you can follow these steps
 
 **Enter this url: <> in your web browser.**
 Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
