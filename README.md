@@ -2,18 +2,18 @@
 
 # Project Name
 
-> Description the project.
+> portfolio-boostrap.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- html
+- bootstrap
+- vs code, git bash, github
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[)
 
 
 ## Getting Started
@@ -22,35 +22,33 @@
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
+## To Access these project locally you can follow these steps
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+**Enter this url: <> in your web browser.**
+Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
+Select download Zip option from drop down menu.
+Once the download is complete you will be able to access my project locally. Here is my repository link:
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **kelwilson**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/kelwilson)
+- Twitter: [@twitterhandle](https://twitter.com/@BesongMaris)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kelly-besong-b33074237/)
 
-👤 **Author2**
+👤 **okoye charles**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/OkoyeCharles)
+- Twitter: [@twitterhandle](https://twitter.com/OkoyeCharles_)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/charles-okoye-633374236/)
+
+👤 **Bahoz ali**
+
+- GitHub: [@githubhandle](https://github.com/bahoz-ali)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bahoz-ali)
 
 ## 🤝 Contributing
 
